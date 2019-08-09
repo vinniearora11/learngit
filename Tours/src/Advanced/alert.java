@@ -25,7 +25,7 @@ System.setProperty("webdriver.chrome.driver", "C:\\Users\\VINNIE\\Downloads\\chr
 				}
 		else
 			System.out.println("invalid alert");
-		driver.close();
+		driver.close();  // this closes the browser
 	}
 }
 	
